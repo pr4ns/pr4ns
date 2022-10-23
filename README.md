@@ -19,7 +19,7 @@ learning • html, sass, node.js,
            bash, lua, viml.
 hobbies  • gaming, code, ricing,
            watching anime, drink coffee.
-  discord  • !  Prans#0001
+discord  • !  Prans#0001
 
 repos    • 
 commits  • 
