@@ -4,7 +4,7 @@
 
 
 ```sh
-~/pr4ns: fetch.sh
+~/pr4ns: setup.sh
 ```
 
 <img align="left" src="https://github.com/pr4ns.png" width="308" />
@@ -20,8 +20,4 @@ learning • html, sass, node.js,
 hobbies  • gaming, code, ricing,
            watching anime, drink coffee.
 discord  • !  Prans#0001
-
-repos    • 
-commits  • 
-issues   • 
 ```
