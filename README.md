@@ -10,7 +10,7 @@
 <img align="left" src="https://github.com/pr4ns.png" width="308" />
 
 ```haskell
-ashtrath@github
+pr4ns@github
 ------------------------------
 os       • Windows 11
 
@@ -18,6 +18,6 @@ pronouns • he/him
 learning • html, sass, node.js,
            bash, lua, viml.
 hobbies  • gaming, code, ricing,
-           watching anime, drink coffee.
-discord  • !  Prans#1234
+           watching movies, drink coffee.
+discord  • matchaboyyy
 ```
