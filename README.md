@@ -19,5 +19,4 @@ learning • html, sass, node.js,
            bash, lua, viml.
 hobbies  • gaming, code, ricing,
            watching movies, drink coffee.
-discord  • matchaboyyy
 ```
